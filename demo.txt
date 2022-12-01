@@ -1,1 +1,2 @@
 Vmi szöveg
+dev40
