@@ -1,2 +1,3 @@
 Vmi szöveg
 dev40
+gyumi
